@@ -2,10 +2,14 @@ Payment Processing System
 Project Overview
 This project implements a basic payment processing system with support for multiple payment methods, currency conversion, and discounts. It includes:
 
-Payment Methods: Credit Card, PayPal, Cryptocurrency
-Currency Conversion: Converts amounts between different currencies using fixed exchange rates
-Discounts: Applies percentage-based and fixed amount discounts
-Transaction Logging: Logs transaction details to the console
+Payment Methods: Credit Card, PayPal, Cryptocurrency.
+
+Currency Conversion: Converts amounts between different currencies using fixed exchange rates.
+
+Discounts: Applies percentage-based and fixed amount discounts.
+
+Transaction Logging: Logs transaction details to the console.
+
 Setup Instructions
 Prerequisites
 Python 3.12.5 installed on your machine.
